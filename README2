@@ -1,0 +1,29 @@
+GROUP NAME: TEAM DATA
+
+Project Title: FACE RECOGNITION USING CNN
+
+Group Members:
+a)Preeti Poudel
+b)Kritika Subedi
+c)Shusen Dangol
+d)Ekta Rawat
+
+Project Description:
+'''It is a deep learning project using Keras with TensorFlow to build a convolutional
+neural network (CNN) for face recognition.'''
+
+Summary of our process;
+a) Data preparation : we loaded and preprocess our image data and labels.
+b) Model Definition : created a CNN model with Keras
+c) Model Training : trained the model and evaluate them.
+d) Model saving and loading ; after trained model, we save them and later use them for prediction
+e) Image preprocessing and prediction: use image and applied the model to make predicitions.
+
+TECH STACK THAT WERE USED IN THIS PROJECT:
+a) Deep Learning Framework: TensorFlow/Keras
+b) Numerical and Array Operations: NumPy
+c) Image Processing: OpenCV
+d) Data Handling and Splitting: Scikit-learn
+e) Visualization: Matplotlib
+
+These were the tech stack which provided us to setup a comprehensive codes for building, training and evaluating a ML model.
